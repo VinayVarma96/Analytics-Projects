@@ -1,0 +1,5 @@
+This project focuses on understanding the netflix movies data and analysing movies from 90s.
+
+Libraries used are - 
+  Pandas
+  Matplotlib
